@@ -1,4 +1,7 @@
 site_name: Workshop Mkdocs Nattan COCHET
+
+extra_css:
+  - stylesheet/style.css
 theme:
   name: material
   features:
