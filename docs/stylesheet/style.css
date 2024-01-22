@@ -47,13 +47,8 @@ body {
 .md-typeset a, .md-typeset a:before {
     transition: color 125ms;
     font-weight: bold;
-    color: #3500ff;
+    color: #26ff00;
     word-break: break-word;
-}
-
-/* dont ever change the width, it'll remove the centered functions from existence */
-.md-typeset div.arithmatex>* {
-    width: auto;
 }
 
 /* better details admonitions */
