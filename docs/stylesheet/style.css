@@ -23,34 +23,9 @@ body {
     color: rgb(0, 152, 254);
 }
 
-/* Titles */
-.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4 {
-    color: rgb(0, 152, 254);
-}
-
-/* Shrinks the space used for the left sidebar, the higher the value, the smaller the left sidebar is */
-.md-grid {
-    max-width: 1800px;
-}
-
-/* table of content & left sidebar's content */
-.md-nav__link {
-    color: black;
-}
-
-/* passed chapter in table of content */
-.md-nav__link--passed {
-    color: var(--md-default-fg-color--light);
-}
-
 /* prevents the copyrighted footer to display */
 .md-footer-meta {
     display: none;
-}
-
-/* left sidebar title */
-.md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link:not(.md-nav__link--index) {
-    color: rgb(0, 152, 254);
 }
 
 /* Main title displayed at the upper left corner*/
@@ -85,12 +60,6 @@ body {
 .md-typeset .admonition>*, .md-typeset details>* {
     box-sizing: unset;
     font-size: 15px;
-}
-
-/* setting the values of the main color shown on the website*/
-:root, [data-md-color-scheme=default] {
-    --md-primary-fg-color: #1a3050; /* changes the site's main color */
-    --md-default-bg-color: white; /* changes the site's main background color */
 }
 
 :root {
