@@ -11,7 +11,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: en
+  language: fr
   palette:
     - scheme: default
       toggle:
@@ -23,8 +23,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: blue
-      accent: teal
+      primary: indigo
+      accent: blue
 
 plugins:
   - social
