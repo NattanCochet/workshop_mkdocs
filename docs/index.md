@@ -9,5 +9,5 @@ Afin de mener cet atelier à bien vous aurez besoin de :
 * D'installer le paquet python `mkdocs-material` comme indiqué ci-dessous
 
 ```sh
-    pip install mkdocs-material
+pip install mkdocs-material
 ```
