@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Workshop MKDocs Nattan COCHET
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Requis pour ce workshop
 
-## Commands
+Afin de mener cet atelier à bien vous aurez besoin de :
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* Python et de son installeur de paquet (pip)
 
-## Project layout
+* D'installer le paquet python `mkdocs-material` comme indiqué ci-dessous
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+```sh
+    pip install mkdocs-material
+```
