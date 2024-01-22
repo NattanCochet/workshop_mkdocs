@@ -13,16 +13,6 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
-/* Table of content's title*/
-.md-nav__title {
-    color: rgb(0, 152, 254);
-}
-
-/* Selected item */
-.md-nav__item .md-nav__link--active {
-    color: rgb(0, 152, 254);
-}
-
 /* prevents the copyrighted footer to display */
 .md-footer-meta {
     display: none;
@@ -55,6 +45,10 @@ body {
 .md-typeset .admonition>*, .md-typeset details>* {
     box-sizing: unset;
     font-size: 15px;
+}
+
+.md-typeset h1 {
+    color : black;
 }
 
 :root {
