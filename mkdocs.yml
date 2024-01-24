@@ -33,3 +33,5 @@ plugins:
   - social
 
 
+nav:
+  - "Etape 1": "etape1.md"

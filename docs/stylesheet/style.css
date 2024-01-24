@@ -47,11 +47,11 @@ body {
     font-size: 15px;
 }
 
-.md-typeset h1 {
+.md-typeset h1 [data-md-color-scheme=default] {
     color : black;
 }
 
-:root {
+:root [data-md-color-scheme=default] {
 	--md-primary-bg-color--light: black; /* search bar prompt color */
 }
 

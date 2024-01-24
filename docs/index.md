@@ -14,7 +14,7 @@ pip install mkdocs-material
 
 * Ainsi que de créer un répo github que vous appellerez comme bon vous semble (en dehors de l'organisation github d'Epitech bien entendu)
 
-<br><br>
+<br>
 
 ## Ce que nous allons faire durant cette activité
 
