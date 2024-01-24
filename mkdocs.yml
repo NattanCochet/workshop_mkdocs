@@ -35,5 +35,5 @@ plugins:
 
 nav:
   - Guide:
-    - "Intro" : "index.md"
+    - "Intro" : "intro.md"
     - "Etape 1": "etape1.md"
