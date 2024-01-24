@@ -13,8 +13,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - attr_list
-    - md_in_html
+
   language: en
   palette:
     - scheme: default
@@ -32,6 +31,11 @@ theme:
 
 plugins:
   - social
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+
 
 nav:
   - Guide:
