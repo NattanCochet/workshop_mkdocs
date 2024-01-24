@@ -13,6 +13,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - attr_list
+    - md_in_html
   language: en
   palette:
     - scheme: default
@@ -31,8 +33,8 @@ theme:
 plugins:
   - social
 
-
 nav:
   - Guide:
     - "Intro": "intro.md"
     - "Etape 1": "etape1.md"
+    - "Etape 2": "etape2.md"

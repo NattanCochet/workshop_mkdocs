@@ -37,7 +37,7 @@ body {
 .md-typeset a, .md-typeset a:before {
     transition: color 125ms;
     font-weight: bold;
-    color: #26ff00;
+    /*color: #26ff00;*/
     word-break: break-word;
 }
 
@@ -45,10 +45,6 @@ body {
 .md-typeset .admonition>*, .md-typeset details>* {
     box-sizing: unset;
     font-size: 15px;
-}
-
-.md-typeset h1 [data-md-color-scheme=default] {
-    color : black;
 }
 
 :root [data-md-color-scheme=default] {
