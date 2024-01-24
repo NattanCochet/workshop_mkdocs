@@ -1,6 +1,6 @@
 # Etape 1
 
-Une fois avoir crée votre répo github clonez le et entrez dedans à l'aide du terminal
+Une fois avoir crée votre répo github clonez le et accédez y à l'aide du terminal
 
 Tapez
 
